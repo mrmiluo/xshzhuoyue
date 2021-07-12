@@ -10,11 +10,13 @@
         <module name="zhuoyue-web-util" />
         <module name="zhuoyue-order-web" />
         <module name="zhuoyue-bean" />
-        <module name="zhuoyue-common-mapper" />
-        <module name="zhuoyue-user-service" />
-        <module name="zhuoyue-service-util" />
-        <module name="zhuoyue-common-util" />
+        <module name="zhuoyue-manage-web" />
         <module name="zhuoyue-interface" />
+        <module name="zhuoyue-service-util" />
+        <module name="zhuoyue-user-service" />
+        <module name="zhuoyue-common-util" />
+        <module name="zhuoyue-common-mapper" />
+        <module name="zhuoyue-manage-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +24,8 @@
       <module name="zhuoyue-common-mapper" target="1.8" />
       <module name="zhuoyue-common-util" target="1.8" />
       <module name="zhuoyue-interface" target="1.8" />
+      <module name="zhuoyue-manage-service" target="1.8" />
+      <module name="zhuoyue-manage-web" target="1.8" />
       <module name="zhuoyue-module" target="1.8" />
       <module name="zhuoyue-order-web" target="1.8" />
       <module name="zhuoyue-service-util" target="1.8" />
