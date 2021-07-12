@@ -40,6 +40,12 @@
             <groupId>tk.mybatis</groupId>
             <artifactId>mapper-spring-boot-starter</artifactId>
             <version>1.2.3</version>
+            <!--
+                exclusions  排除
+                springboot的很多依赖包都是组合的
+                例如  spring-boot-started-jdbc 这个版本可能会和其他组合包中的这个版本冲突
+                解决冲突    放弃一方    改变顺序(了解)
+            -->
             <exclusions>
                 <exclusion>
                     <groupId>org.springframework.boot</groupId>

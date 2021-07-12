@@ -2,5 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/zhuoyue-common-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuoyue-module/zhuoyue-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuoyue-module/zhuoyue-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuoyue-module/zhuoyue-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuoyue-module/zhuoyue-order-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuoyue-module/zhuoyue-service-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuoyue-module/zhuoyue-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuoyue-module/zhuoyue-web-util/src/main/java" charset="UTF-8" />
   </component>
 </project>

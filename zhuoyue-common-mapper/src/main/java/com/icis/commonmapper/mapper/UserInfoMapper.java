@@ -13,4 +13,7 @@ public interface UserInfoMapper extends Mapper<UserInfo> {
 
     // 查询所有用户的方法
     List<UserInfo> findAll();
+
+    //根据逐渐查询一个用户
+    UserInfo findUserByPrimaryKey(UserInfo userInfo);
 }
